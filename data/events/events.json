@@ -1,0 +1,14 @@
+[
+  {"event_id": "E001", "title": "HackCampus 24-hour Hackathon", "date": "2026-11-07", "type": "hackathon", "tags": ["web", "ml", "design"], "venue": "Main Auditorium"},
+  {"event_id": "E002", "title": "Intro to NLP with Transformers", "date": "2026-11-10", "type": "workshop", "tags": ["ml", "nlp", "python"], "venue": "CSE Lab 3"},
+  {"event_id": "E003", "title": "UI/UX Design Sprint", "date": "2026-11-12", "type": "workshop", "tags": ["design", "web"], "venue": "Design Studio"},
+  {"event_id": "E004", "title": "Robotics Build Day", "date": "2026-11-14", "type": "workshop", "tags": ["robotics", "iot"], "venue": "ECE Workshop"},
+  {"event_id": "E005", "title": "Capture the Flag: Cyber Night", "date": "2026-11-18", "type": "competition", "tags": ["security", "dsa"], "venue": "CSE Lab 1"},
+  {"event_id": "E006", "title": "Cloud and DevOps Bootcamp", "date": "2026-11-21", "type": "workshop", "tags": ["cloud", "web"], "venue": "Seminar Hall B"},
+  {"event_id": "E007", "title": "Competitive Coding Contest", "date": "2026-11-25", "type": "competition", "tags": ["dsa", "placements"], "venue": "CSE Lab 2"},
+  {"event_id": "E008", "title": "Startup Pitch Night", "date": "2026-11-28", "type": "talk", "tags": ["entrepreneurship", "design"], "venue": "Seminar Hall A"},
+  {"event_id": "E009", "title": "Placement Prep: Mock Interviews", "date": "2026-12-02", "type": "talk", "tags": ["placements", "dsa"], "venue": "Training Cell"},
+  {"event_id": "E010", "title": "Annual Cultural Fest: Music Night", "date": "2026-12-05", "type": "fest", "tags": ["music", "dance"], "venue": "Open Air Theatre"},
+  {"event_id": "E011", "title": "Inter-branch Sports Meet", "date": "2026-12-08", "type": "fest", "tags": ["sports"], "venue": "Sports Ground"},
+  {"event_id": "E012", "title": "IoT Smart Campus Ideathon", "date": "2026-12-12", "type": "hackathon", "tags": ["iot", "ml", "cloud"], "venue": "Innovation Lab"}
+]

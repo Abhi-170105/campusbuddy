@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "S001",
+    "name": "Student 001",
+    "year": 2,
+    "branch": "CSE",
+    "skills": [
+      "pandas",
+      "python"
+    ],
+    "interests": [
+      "ml"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "mon",
+      "sun"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S002",
+    "name": "Student 002",
+    "year": 1,
+    "branch": "CSE",
+    "skills": [
+      "react",
+      "javascript"
+    ],
+    "interests": [
+      "design",
+      "web"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "sun",
+      "wed"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S003",
+    "name": "Student 003",
+    "year": 1,
+    "branch": "MECH",
+    "skills": [
+      "c",
+      "embedded"
+    ],
+    "interests": [
+      "iot"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "tue",
+      "wed"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S004",
+    "name": "Student 004",
+    "year": 4,
+    "branch": "ISE",
+    "skills": [
+      "communication",
+      "event-management"
+    ],
+    "interests": [
+      "music",
+      "sports"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "tue",
+      "sat"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S005",
+    "name": "Student 005",
+    "year": 2,
+    "branch": "MECH",
+    "skills": [
+      "sql",
+      "java"
+    ],
+    "interests": [
+      "dsa",
+      "security"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "thu",
+      "fri"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S006",
+    "name": "Student 006",
+    "year": 3,
+    "branch": "AIML",
+    "skills": [
+      "pandas",
+      "python"
+    ],
+    "interests": [
+      "nlp",
+      "python"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "wed",
+      "tue"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S007",
+    "name": "Student 007",
+    "year": 2,
+    "branch": "ECE",
+    "skills": [
+      "figma",
+      "react"
+    ],
+    "interests": [
+      "web"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "wed",
+      "fri"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S008",
+    "name": "Student 008",
+    "year": 1,
+    "branch": "ECE",
+    "skills": [
+      "arduino",
+      "embedded"
+    ],
+    "interests": [
+      "robotics",
+      "cloud"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "mon",
+      "fri"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": true
+    }
+  },
+  {
+    "id": "S009",
+    "name": "Student 009",
+    "year": 1,
+    "branch": "CSE",
+    "skills": [
+      "event-management",
+      "communication"
+    ],
+    "interests": [
+      "dance",
+      "music"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "tue",
+      "sun"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S010",
+    "name": "Student 010",
+    "year": 2,
+    "branch": "MECH",
+    "skills": [
+      "java",
+      "sql"
+    ],
+    "interests": [
+      "dsa"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "mon",
+      "thu"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S011",
+    "name": "Student 011",
+    "year": 2,
+    "branch": "CSE",
+    "skills": [
+      "pandas",
+      "python"
+    ],
+    "interests": [
+      "python"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "mon",
+      "fri"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S012",
+    "name": "Student 012",
+    "year": 3,
+    "branch": "MECH",
+    "skills": [
+      "react",
+      "javascript"
+    ],
+    "interests": [
+      "web",
+      "design"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "thu",
+      "fri"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S013",
+    "name": "Student 013",
+    "year": 1,
+    "branch": "ECE",
+    "skills": [
+      "c",
+      "arduino"
+    ],
+    "interests": [
+      "cloud"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "sat",
+      "fri"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S014",
+    "name": "Student 014",
+    "year": 3,
+    "branch": "ECE",
+    "skills": [
+      "event-management",
+      "communication"
+    ],
+    "interests": [
+      "dance"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "mon",
+      "sun"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S015",
+    "name": "Student 015",
+    "year": 4,
+    "branch": "AIML",
+    "skills": [
+      "sql",
+      "java"
+    ],
+    "interests": [
+      "security"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "sun",
+      "tue"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S016",
+    "name": "Student 016",
+    "year": 3,
+    "branch": "ECE",
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "interests": [
+      "nlp",
+      "ml"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "thu",
+      "wed"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S017",
+    "name": "Student 017",
+    "year": 3,
+    "branch": "MECH",
+    "skills": [
+      "figma",
+      "javascript"
+    ],
+    "interests": [
+      "web",
+      "entrepreneurship"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "fri",
+      "tue"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S018",
+    "name": "Student 018",
+    "year": 4,
+    "branch": "ISE",
+    "skills": [
+      "c",
+      "embedded"
+    ],
+    "interests": [
+      "cloud"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "tue",
+      "thu"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S019",
+    "name": "Student 019",
+    "year": 2,
+    "branch": "CSE",
+    "skills": [
+      "event-management",
+      "communication"
+    ],
+    "interests": [
+      "sports",
+      "music"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "sun",
+      "tue"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S020",
+    "name": "Student 020",
+    "year": 1,
+    "branch": "MECH",
+    "skills": [
+      "java",
+      "sql"
+    ],
+    "interests": [
+      "dsa",
+      "security"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "mon",
+      "fri"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": true
+    }
+  },
+  {
+    "id": "S021",
+    "name": "Student 021",
+    "year": 2,
+    "branch": "ISE",
+    "skills": [
+      "pandas",
+      "ml"
+    ],
+    "interests": [
+      "nlp",
+      "python"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "wed",
+      "thu"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S022",
+    "name": "Student 022",
+    "year": 1,
+    "branch": "AIML",
+    "skills": [
+      "react",
+      "figma"
+    ],
+    "interests": [
+      "web"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "wed",
+      "sun"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S023",
+    "name": "Student 023",
+    "year": 1,
+    "branch": "MECH",
+    "skills": [
+      "embedded",
+      "arduino"
+    ],
+    "interests": [
+      "cloud",
+      "robotics"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "sat",
+      "thu"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S024",
+    "name": "Student 024",
+    "year": 1,
+    "branch": "CSE",
+    "skills": [
+      "communication",
+      "event-management"
+    ],
+    "interests": [
+      "dance"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "fri",
+      "tue"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": true
+    }
+  },
+  {
+    "id": "S025",
+    "name": "Student 025",
+    "year": 4,
+    "branch": "MECH",
+    "skills": [
+      "sql",
+      "java"
+    ],
+    "interests": [
+      "security"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "fri",
+      "sat"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S026",
+    "name": "Student 026",
+    "year": 3,
+    "branch": "MECH",
+    "skills": [
+      "pandas",
+      "python"
+    ],
+    "interests": [
+      "cloud"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "tue",
+      "sat"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S027",
+    "name": "Student 027",
+    "year": 3,
+    "branch": "CSE",
+    "skills": [
+      "react",
+      "figma"
+    ],
+    "interests": [
+      "design"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "thu",
+      "tue"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S028",
+    "name": "Student 028",
+    "year": 2,
+    "branch": "ISE",
+    "skills": [
+      "embedded",
+      "c"
+    ],
+    "interests": [
+      "iot",
+      "robotics"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "fri",
+      "sun"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S029",
+    "name": "Student 029",
+    "year": 3,
+    "branch": "CSE",
+    "skills": [
+      "communication",
+      "event-management"
+    ],
+    "interests": [
+      "sports"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "wed",
+      "tue"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S030",
+    "name": "Student 030",
+    "year": 4,
+    "branch": "CSE",
+    "skills": [
+      "java",
+      "dsa"
+    ],
+    "interests": [
+      "placements",
+      "dsa"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "mon",
+      "fri"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S031",
+    "name": "Student 031",
+    "year": 1,
+    "branch": "AIML",
+    "skills": [
+      "pandas",
+      "python"
+    ],
+    "interests": [
+      "python",
+      "cloud"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "sat",
+      "tue"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S032",
+    "name": "Student 032",
+    "year": 2,
+    "branch": "MECH",
+    "skills": [
+      "javascript",
+      "figma"
+    ],
+    "interests": [
+      "design"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "wed",
+      "tue"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S033",
+    "name": "Student 033",
+    "year": 1,
+    "branch": "CSE",
+    "skills": [
+      "arduino",
+      "embedded"
+    ],
+    "interests": [
+      "iot"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "fri",
+      "mon"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S034",
+    "name": "Student 034",
+    "year": 1,
+    "branch": "MECH",
+    "skills": [
+      "communication",
+      "event-management"
+    ],
+    "interests": [
+      "dance",
+      "sports"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "wed",
+      "mon"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S035",
+    "name": "Student 035",
+    "year": 1,
+    "branch": "CSE",
+    "skills": [
+      "sql",
+      "java"
+    ],
+    "interests": [
+      "placements"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "wed",
+      "fri"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S036",
+    "name": "Student 036",
+    "year": 2,
+    "branch": "CSE",
+    "skills": [
+      "ml",
+      "pandas"
+    ],
+    "interests": [
+      "nlp",
+      "cloud"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "sun",
+      "fri"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S037",
+    "name": "Student 037",
+    "year": 4,
+    "branch": "CSE",
+    "skills": [
+      "react",
+      "figma"
+    ],
+    "interests": [
+      "web",
+      "entrepreneurship"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "thu",
+      "sat"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S038",
+    "name": "Student 038",
+    "year": 3,
+    "branch": "AIML",
+    "skills": [
+      "embedded",
+      "c"
+    ],
+    "interests": [
+      "robotics"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "sun",
+      "wed"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S039",
+    "name": "Student 039",
+    "year": 1,
+    "branch": "CSE",
+    "skills": [
+      "event-management",
+      "communication"
+    ],
+    "interests": [
+      "music",
+      "sports"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "wed",
+      "sun"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S040",
+    "name": "Student 040",
+    "year": 4,
+    "branch": "ISE",
+    "skills": [
+      "sql",
+      "java"
+    ],
+    "interests": [
+      "placements",
+      "security"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "thu",
+      "wed"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S041",
+    "name": "Student 041",
+    "year": 1,
+    "branch": "AIML",
+    "skills": [
+      "pandas",
+      "ml"
+    ],
+    "interests": [
+      "cloud"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "sun",
+      "tue"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S042",
+    "name": "Student 042",
+    "year": 3,
+    "branch": "ISE",
+    "skills": [
+      "figma",
+      "react"
+    ],
+    "interests": [
+      "entrepreneurship"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "tue",
+      "sun"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S043",
+    "name": "Student 043",
+    "year": 4,
+    "branch": "AIML",
+    "skills": [
+      "c",
+      "arduino"
+    ],
+    "interests": [
+      "robotics"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "mon",
+      "wed"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S044",
+    "name": "Student 044",
+    "year": 3,
+    "branch": "MECH",
+    "skills": [
+      "communication",
+      "event-management"
+    ],
+    "interests": [
+      "sports"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "mon",
+      "wed"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S045",
+    "name": "Student 045",
+    "year": 3,
+    "branch": "ECE",
+    "skills": [
+      "dsa",
+      "sql"
+    ],
+    "interests": [
+      "security",
+      "placements"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "sun",
+      "wed"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S046",
+    "name": "Student 046",
+    "year": 2,
+    "branch": "AIML",
+    "skills": [
+      "python",
+      "pandas"
+    ],
+    "interests": [
+      "ml"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "fri",
+      "tue"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S047",
+    "name": "Student 047",
+    "year": 1,
+    "branch": "ECE",
+    "skills": [
+      "figma",
+      "react"
+    ],
+    "interests": [
+      "entrepreneurship"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "sat",
+      "mon"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S048",
+    "name": "Student 048",
+    "year": 4,
+    "branch": "CSE",
+    "skills": [
+      "arduino",
+      "c"
+    ],
+    "interests": [
+      "iot",
+      "cloud"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "mon",
+      "tue"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S049",
+    "name": "Student 049",
+    "year": 3,
+    "branch": "MECH",
+    "skills": [
+      "event-management",
+      "communication"
+    ],
+    "interests": [
+      "dance"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "wed",
+      "thu"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S050",
+    "name": "Student 050",
+    "year": 4,
+    "branch": "CSE",
+    "skills": [
+      "dsa",
+      "sql"
+    ],
+    "interests": [
+      "security",
+      "dsa"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "mon",
+      "fri"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S051",
+    "name": "Student 051",
+    "year": 3,
+    "branch": "ISE",
+    "skills": [
+      "ml",
+      "python"
+    ],
+    "interests": [
+      "python"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "sun",
+      "tue"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S052",
+    "name": "Student 052",
+    "year": 1,
+    "branch": "CSE",
+    "skills": [
+      "react",
+      "figma"
+    ],
+    "interests": [
+      "web"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "thu",
+      "fri"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S053",
+    "name": "Student 053",
+    "year": 3,
+    "branch": "ISE",
+    "skills": [
+      "c",
+      "arduino"
+    ],
+    "interests": [
+      "iot"
+    ],
+    "goals": [
+      "placements"
+    ],
+    "availability": [
+      "thu",
+      "sat"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S054",
+    "name": "Student 054",
+    "year": 1,
+    "branch": "MECH",
+    "skills": [
+      "communication",
+      "event-management"
+    ],
+    "interests": [
+      "sports",
+      "dance"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "sun",
+      "fri"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S055",
+    "name": "Student 055",
+    "year": 3,
+    "branch": "ISE",
+    "skills": [
+      "sql",
+      "java"
+    ],
+    "interests": [
+      "security"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "mon",
+      "tue"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S056",
+    "name": "Student 056",
+    "year": 3,
+    "branch": "ISE",
+    "skills": [
+      "pandas",
+      "python"
+    ],
+    "interests": [
+      "python",
+      "ml"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "fri",
+      "mon"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S057",
+    "name": "Student 057",
+    "year": 2,
+    "branch": "ISE",
+    "skills": [
+      "figma",
+      "react"
+    ],
+    "interests": [
+      "design"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "mon",
+      "thu"
+    ],
+    "role": "mentee",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S058",
+    "name": "Student 058",
+    "year": 3,
+    "branch": "CSE",
+    "skills": [
+      "c",
+      "arduino"
+    ],
+    "interests": [
+      "iot",
+      "cloud"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "wed",
+      "sun"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": true
+    }
+  },
+  {
+    "id": "S059",
+    "name": "Student 059",
+    "year": 3,
+    "branch": "ECE",
+    "skills": [
+      "communication",
+      "event-management"
+    ],
+    "interests": [
+      "dance"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "mon",
+      "wed"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S060",
+    "name": "Student 060",
+    "year": 2,
+    "branch": "AIML",
+    "skills": [
+      "dsa",
+      "java"
+    ],
+    "interests": [
+      "security"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "tue",
+      "sat"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S061",
+    "name": "Student 061",
+    "year": 4,
+    "branch": "MECH",
+    "skills": [
+      "ml",
+      "pandas"
+    ],
+    "interests": [
+      "nlp",
+      "cloud"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "tue",
+      "sun"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S062",
+    "name": "Student 062",
+    "year": 3,
+    "branch": "AIML",
+    "skills": [
+      "javascript",
+      "figma"
+    ],
+    "interests": [
+      "design"
+    ],
+    "goals": [
+      "higher-studies"
+    ],
+    "availability": [
+      "mon",
+      "tue"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": true,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S063",
+    "name": "Student 063",
+    "year": 2,
+    "branch": "MECH",
+    "skills": [
+      "c",
+      "arduino"
+    ],
+    "interests": [
+      "cloud",
+      "robotics"
+    ],
+    "goals": [
+      "startup"
+    ],
+    "availability": [
+      "mon",
+      "thu"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": true
+    }
+  },
+  {
+    "id": "S064",
+    "name": "Student 064",
+    "year": 1,
+    "branch": "ISE",
+    "skills": [
+      "communication",
+      "event-management"
+    ],
+    "interests": [
+      "music",
+      "dance"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "tue",
+      "mon"
+    ],
+    "role": "mentor",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  },
+  {
+    "id": "S065",
+    "name": "Student 065",
+    "year": 1,
+    "branch": "CSE",
+    "skills": [
+      "java",
+      "dsa"
+    ],
+    "interests": [
+      "security",
+      "dsa"
+    ],
+    "goals": [
+      "research"
+    ],
+    "availability": [
+      "sun",
+      "tue"
+    ],
+    "role": "both",
+    "visibility": {
+      "share_events": false,
+      "ghost_mode": false
+    }
+  }
+]

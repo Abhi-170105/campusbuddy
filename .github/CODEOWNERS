@@ -1,0 +1,29 @@
+# Who must approve changes to each folder. Later lines win over earlier ones.
+# Replace MEMBER1/MEMBER2/MEMBER4 with real GitHub usernames.
+
+# Shared files (README, requirements.txt, .gitignore): Member 4
+*                     @ChethanKumarr2276
+
+# Member 1: profiles + teammate/mentor matching
+/profiles/            @shraddhashettygr2006-ship-it
+/matching/            @shraddhashettygr2006-ship-it
+/data/profiles/       @shraddhashettygr2006-ship-it
+/eval/matching/       @shraddhashettygr2006-ship-it
+
+# Member 2: lost-and-found
+/lostfound/           @samikshashirali
+/data/items/          @samikshashirali
+/eval/lostfound/      @samikshashirali
+
+# Member 3: events + campus assistant
+/events/              @Abhi-170105
+/assistant/           @Abhi-170105
+/data/events/         @Abhi-170105
+/data/docs/           @Abhi-170105
+/eval/events/         @Abhi-170105
+/eval/assistant/      @Abhi-170105
+
+# Member 4: backend, frontend, docs
+/backend/             @ChethanKumarr2276
+/frontend/            @ChethanKumarr2276
+/docs/                @ChethanKumarr2276
