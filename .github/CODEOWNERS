@@ -1,29 +1,28 @@
 # Who must approve changes to each folder. Later lines win over earlier ones.
-# Replace MEMBER1/MEMBER2/MEMBER4 with real GitHub usernames.
 
 # Shared files (README, requirements.txt, .gitignore): Member 4
-*                     @ChethanKumarr2276
+*                     @ChethanKumarr2276 @Abhi-170105
 
 # Member 1: profiles + teammate/mentor matching
-/profiles/            @shraddhashettygr2006-ship-it
-/matching/            @shraddhashettygr2006-ship-it
-/data/profiles/       @shraddhashettygr2006-ship-it
-/eval/matching/       @shraddhashettygr2006-ship-it
+/profiles/            @shraddhashettygr2006-ship-it @samikshashirali
+/matching/            @shraddhashettygr2006-ship-it @samikshashirali
+/data/profiles/       @shraddhashettygr2006-ship-it @samikshashirali
+/eval/matching/       @shraddhashettygr2006-ship-it @samikshashirali
 
 # Member 2: lost-and-found
-/lostfound/           @samikshashirali
-/data/items/          @samikshashirali
-/eval/lostfound/      @samikshashirali
+/lostfound/           @samikshashirali @shraddhashettygr2006-ship-it
+/data/items/          @samikshashirali @shraddhashettygr2006-ship-it
+/eval/lostfound/      @samikshashirali @shraddhashettygr2006-ship-it
 
 # Member 3: events + campus assistant
-/events/              @Abhi-170105
-/assistant/           @Abhi-170105
-/data/events/         @Abhi-170105
-/data/docs/           @Abhi-170105
-/eval/events/         @Abhi-170105
-/eval/assistant/      @Abhi-170105
+/events/              @Abhi-170105 @ChethanKumarr2276
+/assistant/           @Abhi-170105 @ChethanKumarr2276
+/data/events/         @Abhi-170105 @ChethanKumarr2276
+/data/docs/           @Abhi-170105 @ChethanKumarr2276
+/eval/events/         @Abhi-170105 @ChethanKumarr2276
+/eval/assistant/      @Abhi-170105 @ChethanKumarr2276
 
 # Member 4: backend, frontend, docs
-/backend/             @ChethanKumarr2276
-/frontend/            @ChethanKumarr2276
-/docs/                @ChethanKumarr2276
+/backend/             @ChethanKumarr2276 @Abhi-170105
+/frontend/            @ChethanKumarr2276 @Abhi-170105
+/docs/                @ChethanKumarr2276 @Abhi-170105
