@@ -1,0 +1,17 @@
+{
+ "questions": 30,
+ "accuracy": 1.0,
+ "answerable_correct": "25/25",
+ "unanswerable_refused": "5/5",
+ "wrongly_refused": 0,
+ "groundedness_mean": 0.919,
+ "target_met": true,
+ "embedder": "sentence-transformers",
+ "generator": "Qwen/Qwen2.5-1.5B-Instruct",
+ "search": "faiss",
+ "top_k": 3,
+ "threshold": 0.2324,
+ "chunk_words": 120,
+ "overlap": 30,
+ "chunks": 40
+}

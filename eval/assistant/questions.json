@@ -1,0 +1,292 @@
+[
+ {
+  "id": "Q01",
+  "question": "What is the minimum attendance needed to write the semester exams?",
+  "answerable": true,
+  "expected_answer": "At least 75% in each course.",
+  "must_include": [
+   "75%|75 percent"
+  ],
+  "source": "attendance_policy.md"
+ },
+ {
+  "id": "Q02",
+  "question": "When do the semester end exams start this term?",
+  "answerable": true,
+  "expected_answer": "7 December 2026.",
+  "must_include": [
+   "7 December|December 7|7th December"
+  ],
+  "source": "academic_calendar.md"
+ },
+ {
+  "id": "Q03",
+  "question": "How many books can I borrow from the library at a time?",
+  "answerable": true,
+  "expected_answer": "Up to 4 books for 14 days.",
+  "must_include": [
+   "4|four"
+  ],
+  "source": "library.md"
+ },
+ {
+  "id": "Q04",
+  "question": "What is the fine if I return a library book late?",
+  "answerable": true,
+  "expected_answer": "Rs. 2 per day per book.",
+  "must_include": [
+   "2 per day|Rs. 2|Rs 2"
+  ],
+  "source": "library.md"
+ },
+ {
+  "id": "Q05",
+  "question": "By what time do I have to be back in the hostel at night?",
+  "answerable": true,
+  "expected_answer": "9:30 pm.",
+  "must_include": [
+   "9:30"
+  ],
+  "source": "hostel_rules.md"
+ },
+ {
+  "id": "Q06",
+  "question": "What are the dinner timings in the hostel mess?",
+  "answerable": true,
+  "expected_answer": "7:30 pm to 9:00 pm.",
+  "must_include": [
+   "7:30"
+  ],
+  "source": "hostel_rules.md"
+ },
+ {
+  "id": "Q07",
+  "question": "What is the late fee if I pay my tuition fee after the due date?",
+  "answerable": true,
+  "expected_answer": "Rs. 100 per day, up to Rs. 3,000.",
+  "must_include": [
+   "100"
+  ],
+  "source": "fees_payment.md"
+ },
+ {
+  "id": "Q08",
+  "question": "What does the merit scholarship give the top rankers?",
+  "answerable": true,
+  "expected_answer": "A 50% tuition fee waiver for the top 3 rankers per branch per year.",
+  "must_include": [
+   "50%|50 percent"
+  ],
+  "source": "scholarships.md"
+ },
+ {
+  "id": "Q09",
+  "question": "What is the family income limit for the need-based scholarship?",
+  "answerable": true,
+  "expected_answer": "Below Rs. 2.5 lakh per year.",
+  "must_include": [
+   "2.5 lakh"
+  ],
+  "source": "scholarships.md"
+ },
+ {
+  "id": "Q10",
+  "question": "What CGPA do I need to register for campus placements?",
+  "answerable": true,
+  "expected_answer": "At least 6.0 with no active backlogs.",
+  "must_include": [
+   "6.0"
+  ],
+  "source": "placement_cell.md"
+ },
+ {
+  "id": "Q11",
+  "question": "What package counts as a dream company in placements?",
+  "answerable": true,
+  "expected_answer": "12 LPA or more.",
+  "must_include": [
+   "12 LPA"
+  ],
+  "source": "placement_cell.md"
+ },
+ {
+  "id": "Q12",
+  "question": "How long is the mandatory internship?",
+  "answerable": true,
+  "expected_answer": "At least 4 weeks, after the 6th semester.",
+  "must_include": [
+   "4 weeks|four weeks"
+  ],
+  "source": "internships.md"
+ },
+ {
+  "id": "Q13",
+  "question": "When does the coding club meet?",
+  "answerable": true,
+  "expected_answer": "Every Wednesday at 4:30 pm in CSE Lab 3.",
+  "must_include": [
+   "Wednesday"
+  ],
+  "source": "clubs.md"
+ },
+ {
+  "id": "Q14",
+  "question": "How many members do I need to start a new club?",
+  "answerable": true,
+  "expected_answer": "At least 15 members and a faculty coordinator.",
+  "must_include": [
+   "15"
+  ],
+  "source": "clubs.md"
+ },
+ {
+  "id": "Q15",
+  "question": "What are the evening timings of the sports complex?",
+  "answerable": true,
+  "expected_answer": "4:30 pm to 7:30 pm.",
+  "must_include": [
+   "4:30"
+  ],
+  "source": "sports.md"
+ },
+ {
+  "id": "Q16",
+  "question": "How much does the college bus pass cost?",
+  "answerable": true,
+  "expected_answer": "Rs. 18,000 per year.",
+  "must_include": [
+   "18,000|18000"
+  ],
+  "source": "transport.md"
+ },
+ {
+  "id": "Q17",
+  "question": "What is the name of the student Wi-Fi network?",
+  "answerable": true,
+  "expected_answer": "SIT-Students.",
+  "must_include": [
+   "SIT-Students"
+  ],
+  "source": "it_services_wifi.md"
+ },
+ {
+  "id": "Q18",
+  "question": "How much Wi-Fi data can I use per day?",
+  "answerable": true,
+  "expected_answer": "5 GB per day.",
+  "must_include": [
+   "5 GB|5GB"
+  ],
+  "source": "it_services_wifi.md"
+ },
+ {
+  "id": "Q19",
+  "question": "When is the doctor available at the health centre?",
+  "answerable": true,
+  "expected_answer": "10:00 am to 1:00 pm on weekdays.",
+  "must_include": [
+   "10:00|10 am"
+  ],
+  "source": "health_centre.md"
+ },
+ {
+  "id": "Q20",
+  "question": "What is the anti-ragging helpline number?",
+  "answerable": true,
+  "expected_answer": "1800-180-5522.",
+  "must_include": [
+   "1800-180-5522"
+  ],
+  "source": "grievance_antiragging.md"
+ },
+ {
+  "id": "Q21",
+  "question": "How much does a duplicate ID card cost?",
+  "answerable": true,
+  "expected_answer": "Rs. 200, ready in 3 working days.",
+  "must_include": [
+   "200"
+  ],
+  "source": "lost_found_idcard.md"
+ },
+ {
+  "id": "Q22",
+  "question": "Where can I find something I lost on campus?",
+  "answerable": true,
+  "expected_answer": "At the security office at the main gate.",
+  "must_include": [
+   "security office"
+  ],
+  "source": "lost_found_idcard.md"
+ },
+ {
+  "id": "Q23",
+  "question": "On which day is the DBMS lab for CSE 5th semester section A?",
+  "answerable": true,
+  "expected_answer": "Thursday, 2:00 to 5:00 in Lab 2.",
+  "must_include": [
+   "Thursday"
+  ],
+  "source": "timetable_cse_sem5_A.md"
+ },
+ {
+  "id": "Q24",
+  "question": "How many days do I have to apply for revaluation?",
+  "answerable": true,
+  "expected_answer": "Within 7 days of the results.",
+  "must_include": [
+   "7 days|seven days"
+  ],
+  "source": "exam_rules.md"
+ },
+ {
+  "id": "Q25",
+  "question": "What is the revaluation fee per subject?",
+  "answerable": true,
+  "expected_answer": "Rs. 500 per subject.",
+  "must_include": [
+   "500"
+  ],
+  "source": "exam_rules.md"
+ },
+ {
+  "id": "Q26",
+  "question": "Who won the IPL in 2025?",
+  "answerable": false,
+  "expected_answer": "I don't know (not in the documents)",
+  "must_include": [],
+  "source": null
+ },
+ {
+  "id": "Q27",
+  "question": "Give me a recipe for butter chicken.",
+  "answerable": false,
+  "expected_answer": "I don't know (not in the documents)",
+  "must_include": [],
+  "source": null
+ },
+ {
+  "id": "Q28",
+  "question": "What is the parking fee for students' cars?",
+  "answerable": false,
+  "expected_answer": "I don't know (not in the documents)",
+  "must_include": [],
+  "source": null
+ },
+ {
+  "id": "Q29",
+  "question": "Who is the principal of the college?",
+  "answerable": false,
+  "expected_answer": "I don't know (not in the documents)",
+  "must_include": [],
+  "source": null
+ },
+ {
+  "id": "Q30",
+  "question": "What is the salary of an assistant professor?",
+  "answerable": false,
+  "expected_answer": "I don't know (not in the documents)",
+  "must_include": [],
+  "source": null
+ }
+]

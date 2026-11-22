@@ -1,0 +1,18 @@
+# Member 3 (events + campus assistant). Install with:  pip install -r requirements-member3.txt
+# Needed for everything:
+pandas
+numpy
+scikit-learn
+matplotlib
+pytest
+# Fast vector search (optional: plain numpy is used automatically if this fails to install)
+faiss-cpu
+# The real AI models for the campus assistant (downloaded from Hugging Face on first use).
+# For GPU speed, install the CUDA build of torch from https://pytorch.org first.
+torch
+sentence-transformers
+transformers
+# Optional: read PDF documents in data/docs/
+pypdf
+# Optional: open the evaluation notebook
+jupyter

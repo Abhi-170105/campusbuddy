@@ -1,0 +1,10 @@
+method,k,hit_rate,hit_rate_std,precision,precision_std
+Collaborative filtering,1,0.578,0.261,0.578,0.261
+Collaborative filtering,3,0.882,0.131,0.432,0.136
+Collaborative filtering,5,0.882,0.131,0.267,0.083
+Content-only,1,0.578,0.261,0.578,0.261
+Content-only,3,0.882,0.131,0.432,0.136
+Content-only,5,0.882,0.131,0.267,0.083
+Popularity-only,1,0.255,0.226,0.255,0.226
+Popularity-only,3,0.308,0.208,0.162,0.147
+Popularity-only,5,0.445,0.278,0.151,0.104
