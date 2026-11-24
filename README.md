@@ -1,33 +1,19 @@
-# CampusBuddy
+# CampusBuddy — AI Lost-and-Found Module (Member 2)
 
-An AI "buddy for your entire college life": teammate and mentor matching,
-lost-and-found, event "Who's going?", and a campus assistant chatbot.
-Samsung Innovation Campus capstone (4 members, 21 days).
+Multimodal Lost-and-Found search using **CLIP (`ViT-B-32`)** embeddings, **FAISS (`IndexFlatIP`)** vector search, metadata re-ranking, and ownership verification.
 
-## Who owns what
-| Member | Folders |
-|---|---|
-| 1 | `profiles/`, `matching/`, `data/profiles/`, `eval/matching/` |
-| 2 | `lostfound/`, `data/items/`, `eval/lostfound/` |
-| 3 | `events/`, `assistant/`, `data/events/`, `data/docs/`, `eval/events/`, `eval/assistant/` |
-| 4 | `backend/`, `frontend/`, `docs/`, shared root files |
+## Folder Structure
+- `lostfound/__init__.py` — Core CLIP + FAISS pipeline and shared team functions
+- `lostfound/extras.py` — Ownership verification, blurry-photo check, duplicate detection
+- `lostfound/tests/test_lostfound.py` — Automated unit tests
+- `data/items/items.csv` & `data/items/images/` — Item metadata and photos
+- `eval/evaluate_lostfound.py` — Evaluation vs TF-IDF and ResNet50 baselines
 
-Ownership is enforced by `.github/CODEOWNERS` plus branch protection on `main`.
+## Shared Contract Functions (for Member 4 Backend)
+- `lostfound.add_found_item(image_path, description, location, date) -> item_id`
+- `lostfound.search_lost_item(description, image_path=None, k=5) -> [{"item_id", "score", "location", "date", "notify"}]`
 
-## Team workflow
-1. Work only on your own branch, e.g. `member3-events`. Never commit to `main`.
-2. Start each day with `git pull origin main`.
-3. Commit daily, push your branch, open a Pull Request into `main`.
-4. The folder owner approves the PR. Shared files need Member 4's approval.
-5. Data in `data/` must be anonymised: no real names or phone numbers.
-
-## Setup
-```
-pip install -r requirements.txt
-python -m pytest
-```
-Add your module's libraries to `requirements.txt` through a PR to Member 4.
-
-## Shared contract
-Do not change the profile JSON or the function signatures without telling the team.
-See `docs/contract.md`.
+## Running Tests & Evaluation
+```bash
+pytest CampusBuddy/lostfound/tests/
+python CampusBuddy/eval/evaluate_lostfound.py
