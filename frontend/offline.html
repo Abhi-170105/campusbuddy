@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#1F5E43" />
+  <title>CampusBuddy: offline</title>
+  <style>
+    :root { --bg: #FAF6EE; --ink: #18181B; --muted: #52525B; --green: #1F5E43; }
+    * { box-sizing: border-box; margin: 0; }
+    body {
+      min-height: 100vh; display: flex; align-items: center; justify-content: center;
+      padding: 24px 16px; background: var(--bg); color: var(--ink);
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    }
+    .card {
+      max-width: 360px; width: 100%; text-align: center; background: #fff;
+      border: 2px solid var(--ink); border-radius: 12px; box-shadow: 3px 3px 0 var(--ink); padding: 28px 22px;
+    }
+    img { width: 88px; height: 88px; }
+    h1 { font-size: 1.3rem; margin: 14px 0 8px; }
+    p { color: var(--muted); line-height: 1.5; margin-bottom: 20px; }
+    button {
+      min-height: 44px; padding: 0 22px; font: inherit; font-weight: 700; color: #fff;
+      background: var(--green); border: 2px solid var(--ink); border-radius: 10px;
+      box-shadow: 2px 2px 0 var(--ink); cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <img src="/icons/icon-192.png" alt="" />
+    <h1>You're offline</h1>
+    <p>CampusBuddy needs the internet for matches, events and the assistant. Check your connection and try again.</p>
+    <button onclick="location.reload()">Try again</button>
+  </main>
+</body>
+</html>

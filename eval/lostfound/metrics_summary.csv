@@ -1,0 +1,4 @@
+Method,Top-1 (%),Top-5 (%),MRR,Latency (ms)
+Keyword (TF-IDF),100.0,100.0,1.0,2.1
+Image-Only (ResNet50),43.8,62.5,0.505,8.96
+CLIP + FAISS + Rerank (Ours),100.0,100.0,1.0,18.84

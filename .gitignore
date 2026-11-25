@@ -1,14 +1,17 @@
 __pycache__/
-*.pyc
-.pytest_cache/
+*.py[cod]
+*$py.class
 .venv/
 venv/
-.env
+env/
+.pytest_cache/
 .ipynb_checkpoints/
-# big generated files: rebuild them instead of committing
-*.faiss
-*.index
-models/
-.chroma/
+assistant/index/
+backend/uploads/
+CampusBuddy_Member1/
+CampusBuddy_Member2/
+campusbuddy_member3_final/
+organize.sh
+all_code.txt
 .DS_Store
-Thumbs.db
+_backup_before_pwa/

@@ -1,3 +1,27 @@
-pandas
-numpy
-pytest
+    # Core Web & API (Member 4)
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+pydantic>=2.7.0
+streamlit>=1.38.0
+requests>=2.32.0
+httpx>=0.27.0
+
+# Data & ML Core (Members 1, 2, 3)
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
+matplotlib>=3.9.0
+Pillow>=10.3.0
+
+# Embeddings, Vector Search & Vision (Members 1, 2, 3)
+torch>=2.2.0
+torchvision>=0.17.0
+sentence-transformers>=3.0.0
+transformers>=4.44.0
+open-clip-torch>=2.26.1
+faiss-cpu>=1.8.0
+pypdf>=4.3.0
+
+# Testing
+pytest>=8.3.0
