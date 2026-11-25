@@ -1,0 +1,17 @@
+item_id,image_path,query_image_path,description,category,color,location,date,secret_detail
+ITEM_001,data/items/images/ITEM_001_1.jpg,data/items/images/ITEM_001_2.jpg,Blue stainless steel water bottle with black cap,bottle,blue,Library,2026-11-20,dented bottom left
+ITEM_002,data/items/images/ITEM_002_1.jpg,data/items/images/ITEM_002_2.jpg,Red plastic Milton sipper bottle,bottle,red,Canteen,2026-11-21,name Priya written under cap
+ITEM_003,data/items/images/ITEM_003_1.jpg,data/items/images/ITEM_003_2.jpg,Black Casio scientific calculator fx-991ES,calculator,black,LH-204,2026-11-21,initials SK on back
+ITEM_004,data/items/images/ITEM_004_1.jpg,data/items/images/ITEM_004_2.jpg,Silver scientific calculator with slide cover,calculator,silver,Exam Hall,2026-11-19,small scratch near solar panel
+ITEM_005,data/items/images/ITEM_005_1.jpg,data/items/images/ITEM_005_2.jpg,White wireless earphones charging case,earphones,white,Canteen,2026-11-22,tiny ink dot inside lid
+ITEM_006,data/items/images/ITEM_006_1.jpg,data/items/images/ITEM_006_2.jpg,Black wired earphones with mic,earphones,black,Bus Stop,2026-11-18,red tape near jack
+ITEM_007,data/items/images/ITEM_007_1.jpg,data/items/images/ITEM_007_2.jpg,College student ID card with yellow lanyard,id_card,yellow,Main Gate,2026-11-22,keychain ring attached
+ITEM_008,data/items/images/ITEM_008_1.jpg,data/items/images/ITEM_008_2.jpg,Library smart ID card in blue holder,id_card,blue,Library,2026-11-20,cracked top corner
+ITEM_009,data/items/images/ITEM_009_1.jpg,data/items/images/ITEM_009_2.jpg,Brown leather laptop backpack with two zips,bag,brown,Auditorium,2026-11-19,purple keychain inside front pocket
+ITEM_010,data/items/images/ITEM_010_1.jpg,data/items/images/ITEM_010_2.jpg,Grey waterproof college backpack,bag,grey,CS Lab,2026-11-21,torn inner mesh pocket
+ITEM_011,data/items/images/ITEM_011_1.jpg,data/items/images/ITEM_011_2.jpg,Bunch of three silver hostel keys on ring,keys,silver,Parking Lot,2026-11-22,green bike tag attached
+ITEM_012,data/items/images/ITEM_012_1.jpg,data/items/images/ITEM_012_2.jpg,Brass locker key with black rubber fob,keys,gold,Gym,2026-11-20,number 42 engraved
+ITEM_013,data/items/images/ITEM_013_1.jpg,data/items/images/ITEM_013_2.jpg,Dark green folding compact umbrella,umbrella,green,Main Gate,2026-11-18,velcro strap missing
+ITEM_014,data/items/images/ITEM_014_1.jpg,data/items/images/ITEM_014_2.jpg,Purple automatic umbrella with wooden handle,umbrella,purple,LH-101,2026-11-21,sticker on handle
+ITEM_015,data/items/images/ITEM_015_1.jpg,data/items/images/ITEM_015_2.jpg,Orange three-tier tiffin lunch box,lunch_box,orange,Canteen,2026-11-22,steel spoon inside top tray
+ITEM_016,data/items/images/ITEM_016_1.jpg,data/items/images/ITEM_016_2.jpg,Teal insulated square lunch box,lunch_box,teal,Lawn,2026-11-20,smiley sticker on lid
